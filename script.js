@@ -32,7 +32,7 @@ searchBtn.addEventListener("click", async ()=> {
     }
 
     catch (error) {
-        profile.innerHtml=`<h4>${error.message}</h4>`; 
+        profile.innerHTML=`<h4>${error.message}</h4>`; 
     }
 
 
