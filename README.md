@@ -27,7 +27,7 @@ https://lakshmipriyas-25.github.io/github-profile-finder/
 
 ## Screenshots
 
-(Add screenshots here)
+![GitHub Profile Finder](screenshot.png)
 
 ## What I Learned
 
