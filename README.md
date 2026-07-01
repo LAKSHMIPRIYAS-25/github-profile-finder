@@ -41,4 +41,4 @@ https://lakshmipriyas-25.github.io/github-profile-finder/
 
 ## Author
 
-Lakshmipriya
+Lakshmipriya S
