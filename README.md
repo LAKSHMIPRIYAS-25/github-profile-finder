@@ -45,6 +45,7 @@ GitHubFinder/
 ├── README.md
 
 └── Images/
+
      └──screenshot.png
 
 ## 📚 What I Learned
