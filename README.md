@@ -1,19 +1,18 @@
-# GitHub Profile Finder
+## GitHub Profile Finder
 
-A simple and responsive web application that allows users to search for any GitHub profile using the GitHub API.
+A responsive web application that allows users to search for any GitHub profile using the GitHub REST API. The application fetches and displays user information in real time with proper loading states and error handling.
 
-## Features
+## 🚀 Features
 
 - Search GitHub users by username
-- Display profile picture
-- Display name and bio
+- Display profile picture, name, and bio
 - Show followers and following count
-- Show public repositories
-- Loading indicator
-- User not found error handling
-- Responsive design using Bootstrap
+- Display public repositories count
+- Loading indicator while fetching data
+- User-friendly error message for invalid usernames
+- Fully responsive design using Bootstrap 5
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -21,24 +20,45 @@ A simple and responsive web application that allows users to search for any GitH
 - JavaScript (ES6)
 - GitHub REST API
 
-## Live Demo
+## 🌐 Live Demo
 
 https://lakshmipriyas-25.github.io/github-profile-finder/
 
-## Screenshots
+## 💻 Source Code
+
+https://github.com/Lakshmipriyas-25/github-profile-finder
+
+## 📸 Screenshots
 
 ![GitHub Profile Finder](Images/screenshot.png)
 
-## What I Learned
+## 📂 Folder Structure
+
+GitHubFinder/
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+├── README.md
+
+└── Images/
+     └──screenshot.png
+
+## 📚 What I Learned
 
 - DOM Manipulation
 - Fetch API
 - Async/Await
-- Try...Catch
-- API Integration
-- Git and GitHub
-- GitHub Pages Deployment
+- Error Handling using Try...Catch
+- REST API Integration
+- Git and GitHub Workflow
+- Deploying Projects using GitHub Pages
 
-## Author
+## 👩‍💻 Author
 
 Lakshmipriya S
+
+- GitHub: https://github.com/Lakshmipriyas-25
