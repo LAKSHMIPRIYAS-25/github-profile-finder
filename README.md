@@ -30,23 +30,19 @@ https://github.com/Lakshmipriyas-25/github-profile-finder
 
 ## 📸 Screenshots
 
-![GitHub Profile Finder](Images/screenshot.png)
+![GitHub Profile Finder](images/screenshot.png)
 
 ## 📂 Folder Structure
 
+```text
 GitHubFinder/
-
-├── index.html
-
-├── style.css
-
-├── script.js
-
-├── README.md
-
-└── Images/
-
-     └──screenshot.png
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+└── images/
+    └── screenshot.png
+```
 
 ## 📚 What I Learned
 
