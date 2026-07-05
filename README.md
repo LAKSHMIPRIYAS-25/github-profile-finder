@@ -30,7 +30,7 @@ https://github.com/Lakshmipriyas-25/github-profile-finder
 
 ## 📸 Screenshots
 
-![GitHub Profile Finder](images/screenshot.png)
+![GitHub Profile Finder](Images/screenshot.png)
 
 ## 📂 Folder Structure
 
@@ -40,7 +40,7 @@ GitHubFinder/
 │── style.css
 │── script.js
 │── README.md
-└── images/
+└── Images/
     └── screenshot.png
 ```
 
